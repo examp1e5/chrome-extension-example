@@ -2,4 +2,6 @@
 
 ## Init
 
-Follow [https://developer.chrome.com/extensions/getstarted](https://developer.chrome.com/extensions/getstarted)
+OAuth2: Authenticate Users with Google
+
+Follow [https://developer.chrome.com/extensions/tut_oauth](https://developer.chrome.com/extensions/tut_oauth)
